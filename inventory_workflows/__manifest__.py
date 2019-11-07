@@ -1,7 +1,8 @@
 {
     'name':   'Inventory Workflows',
     'author': 'Hafeez Brothers',
-
+    'license': 'LGPL-3',
+    'version' : '1.0',
     'depends': [
                 'base',
                 
